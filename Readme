@@ -1,0 +1,12 @@
+
+Entity - to handle the types and column of table.
+resolver -  to handle the operations like crud of Table. 
+index - to start listening the port and all configuration import modules are placed.
+ormconfig - to handle the db connection string using relational mapping type.
+schema - to handle the type, querry and mutations
+          mutaions are nothing just update and input things. 
+tsconfig - to handle the versions and packages like package.json for typescript.
+
+cmd - npx tsc - to compile the code 
+cmd - node dist/index.js - to run the project.
+
